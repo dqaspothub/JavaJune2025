@@ -4,7 +4,7 @@ public class LogicalOperatorsExample {
 	
     public static void main(String[] args) {
     	
-        int age = 5;
+        int age = 10;
         boolean hasTicket = true;
 
         // AND Operator
@@ -13,7 +13,7 @@ public class LogicalOperatorsExample {
         }
 
         // OR Operator
-        boolean hasPass = false;
+        boolean hasPass = true;
         if (hasTicket || hasPass) {
             System.out.println("Entry allowed with ticket or pass.");
         }

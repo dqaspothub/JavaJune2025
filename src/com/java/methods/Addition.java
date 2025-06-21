@@ -1,9 +1,10 @@
 package com.java.methods;
 
 public class Addition {
-
+	
 	public static void additionOftwoNumbers(int a,int b) {
 
+		
 		int c = a+b;
 
 		System.out.println("The addition of two numbers " + c);

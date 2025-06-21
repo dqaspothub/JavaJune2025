@@ -1,4 +1,4 @@
-package com.java.constructor.example;
+package com.java.constructor;
  
 //Cons chainging using this
 

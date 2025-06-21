@@ -1,4 +1,4 @@
-package com.java.constructor.example;
+package com.java.constructor;
  
 public class PersonNoPCons 
  { 

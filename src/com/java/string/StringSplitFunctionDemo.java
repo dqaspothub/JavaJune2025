@@ -6,6 +6,7 @@ public class StringSplitFunctionDemo {
 		// TODO Auto-generated method stub
 
 		String ip="Amazon development center Chennai";
+		
 		System.out.println(ip);
 
 		String[] split = ip.split(" ");
@@ -20,17 +21,19 @@ public class StringSplitFunctionDemo {
 
 		}	
 
-		for(int i=0;i<=split.length;i++) {
+		for(int i=0;i<split.length;i++) {
 
 			System.out.println(split[i]+" ");
 
 		}
 
 		//Method 2
-
+		
 		for (String str : split) {
 			System.out.println(str + ", ");
 		}
+	
+		
 
 	}
 

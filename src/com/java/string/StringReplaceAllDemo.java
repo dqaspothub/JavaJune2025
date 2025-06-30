@@ -10,7 +10,7 @@ public class StringReplaceAllDemo {
 
 		// replace all occurrences of numeric
 		// digits by a space
-		System.out.println(str1.replaceAll(regex, " "));
+		System.out.println(str1.replaceAll(regex, "*"));
 
 
 	}

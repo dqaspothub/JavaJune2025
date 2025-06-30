@@ -10,9 +10,6 @@ public class StringLowerCase {
 		System.out.println("Before lowercase " +data);
 
 		String dataLower = data.toLowerCase();
-
-		
-		dataLower.toUpperCase();
 		
 		System.out.println("After lowercase " +dataLower);
 	}

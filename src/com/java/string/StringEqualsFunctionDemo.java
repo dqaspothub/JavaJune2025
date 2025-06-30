@@ -7,10 +7,12 @@ public class StringEqualsFunctionDemo {
 		String str1 = "Learn Java";
 		String str2 = "Learn Java";
 		String str3 = "Learn Kolin";
+		
 		boolean result;
 
 		// comparing str1 with str2
 		result = str1.equals(str2);
+		
 		System.out.println(result);  // true
 
 		// comparing str1 with str3

@@ -9,7 +9,7 @@ public class StringIsEmptyFunctionDemo {
 		String str2 = "";
 		
 		boolean test= str1.isEmpty();
-
+		
 		System.out.println(test); // false
 		System.out.println(str2.isEmpty()); // true
 
